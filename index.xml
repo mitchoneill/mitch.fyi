@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitch&#39;s Internet Pages on Mitch&#39;s Internet Pages</title>
+    <link>http://mitch.fyi/</link>
+    <description>Recent content in Mitch&#39;s Internet Pages on Mitch&#39;s Internet Pages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Mitch</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>High Risk Demos Episode 1</title>
+      <link>http://mitch.fyi/talk/high-risk-demo-ep-1/</link>
+      <pubDate>Sat, 13 Aug 2016 16:30:00 +0000</pubDate>
+      
+      <guid>http://mitch.fyi/talk/high-risk-demo-ep-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>402: Payment Required. Micropayments for IoT</title>
+      <link>http://mitch.fyi/talk/402-payment-required/</link>
+      <pubDate>Fri, 12 Aug 2016 16:30:00 +0000</pubDate>
+      
+      <guid>http://mitch.fyi/talk/402-payment-required/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/OvJpWt5gapQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>FieldGuideAU</title>
+      <link>http://mitch.fyi/project/fieldguide-au/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mitch.fyi/project/fieldguide-au/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/cd-7OBnkS00&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;http://2015.hackerspace.govhack.org/content/twitter-field-guide&#34; target=&#34;_blank&#34;&gt;http://2015.hackerspace.govhack.org/content/twitter-field-guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Winner of the GovHack &lt;a href=&#34;https://www.govhack.org/2015-winners/#Scientific_data_bounty&#34; target=&#34;_blank&#34;&gt;CSIRO Scientific Data bounty&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
